@@ -1,0 +1,43 @@
+_repo: Quinquepedalian_72430
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Anthony, Piers
+    alias: Jacob, Piers Anthony Dillingham
+    birthdate: 1934
+    gutenberg_agent_id: '56683'
+    url: http://www.gutenberg.org/2009/agents/56683
+    wikipedia: https://en.wikipedia.org/wiki/Piers_Anthony
+description: ''
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72430'
+language: en
+pgterms:marc905: 20231125110529anthony
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Quinquepedalian
+url: http://www.gutenberg.org/ebooks/72430
